@@ -192,3 +192,6 @@ lineHeight: "23.996px"/* 171.429% */}}>
 }
 
 export default Frame11
+
+
+ d
